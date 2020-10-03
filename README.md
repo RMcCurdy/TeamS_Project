@@ -1,1 +1,1 @@
-This is the GitHub Pages protfolio branch that includes html, css pages for our online portfolio
+This is the GitHub Pages portfolio branch that includes html, css, markdown pages for our online portfolio
