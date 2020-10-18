@@ -25,9 +25,9 @@ Amman Yusuf
     <li>Identified Stakeholders</li>
     <li>Conducted 3 user research methods based on the IDEO Method Cards.</li>
     <ol>
-        <li> Conducted a Competitive Product Survey</li>
-        <li> Conducted Extreme User Interviews</li>
-        <li> Conducted Flow Analysis</li>
+        <li> Competitive Product Survey</li>
+        <li> Extreme User Interviews</li>
+        <li> Flow Analysis</li>
     </ol>
     
 <li><details> <summary>Generated User Tasks</summary>
