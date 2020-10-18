@@ -1,4 +1,4 @@
-(Insert Project Description Here once Stage Two is completed)
+We are developing a mobile application that helps making it easier to join lines, called WaitLess.
 
 ## Team Memebers:
 ```
