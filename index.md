@@ -21,7 +21,6 @@ Amman Yusuf
 
 ### Stage Two Deliverables
 <details>
-    <summary><b>Stage Two</b></summary>
 <br>
 <ol>
     <li>Provided a succinct project description</li>
