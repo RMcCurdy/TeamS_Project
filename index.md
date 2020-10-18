@@ -21,16 +21,16 @@ Amman Yusuf
 
 ### Stage Two Deliverables
 <details>
-    <summary><b>Stage Two</b></summary>
+    <summary><b>Stage Two [Document](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)</b></summary>
 <br>
 <ol>
-    <li>Provided a succint project description: (Insert project description here) </li>
+    <li>Provided a succinct project description</li>
     <li>Identified Stakeholders</li>
-    <li>Conducted 3 user research methods based on teh IDEO Method Cards.</li>
+    <li>Conducted 3 user research methods based on the IDEO Method Cards.</li>
     <ol>
-        <li> A [summary of the findings](insert summary finding link here) found has been generated. </li>
-        <li> A [reflection](insert link to our reflections) on the methods used </li>
-        <li> A collection of images of our user research (can insert a link or share a few images on here + a link) </li>
+        <li> Conducted a Competitive Product Survey [Survey](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)</li>
+        <li> Conducted Extreme User Interviews [Interview](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)</li>
+        <li> Conducted Flow Analysis [Analysis](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)</li>
     </ol>
     
 <li><details> <summary>Generated User Tasks</summary>
