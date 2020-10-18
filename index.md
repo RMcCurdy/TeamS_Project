@@ -29,14 +29,8 @@ Amman Yusuf
         <li> Extreme User Interviews</li>
         <li> Flow Analysis</li>
     </ol>
-    
-<li><details> <summary>Generated User Tasks</summary>
-    <ol>
-        <li>Task</li>
-    </ol>
-   </details></li>
-<li> Appendix/Raw Data of research methods. (insert link here)</li>
-<li>(Possible references)</li>
+    <li>Generated User Tasks</li>
+    <li> Appendix/Raw Data of research methods</li>
 </ol>
 
 
