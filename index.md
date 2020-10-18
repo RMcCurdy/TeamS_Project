@@ -20,8 +20,6 @@ Amman Yusuf
 1. Developed 3 [project ideas](https://github.com/RMcCurdy/TeamS_Project/blob/stage-one/stage_one_project_ideas.pdf)
 
 ### Stage Two Deliverables
-<details>
-<br>
 <ol>
     <li>Provided a succinct project description</li>
     <li>Identified Stakeholders</li>
@@ -40,7 +38,5 @@ Amman Yusuf
 <li> Appendix/Raw Data of research methods. (insert link here)</li>
 <li>(Possible references)</li>
 </ol>
-
-</details>
 
 
