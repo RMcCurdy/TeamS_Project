@@ -1,4 +1,6 @@
 We are developing a mobile application that helps making it easier to join lines, called WaitLess.
+The WaitLess project idea revolves around improving the virtual academic advising experience for students by refining a virtual line up system. The current solution, QLess, has problems that will be addressed with our idea while also adding improvements to make lining up virtually easy and convenient.  We expect our system to be used as a mobile application where students can virtually line up for drop-in advising at their university/school.  This system will be used by the aforementioned students and <b>academic advisors</b> that will be conducting these line ups.  The context at which we expect this system will be used under is in an academic environment between student and advisor.  We don't expect the student to use this system daily, but we expect the advisors to use this system daily to provide guidance to students.
+
 
 ## Team Memebers:
 ```
@@ -19,14 +21,14 @@ Amman Yusuf
 1. Created an online [portfolio](https://rmccurdy.github.io/TeamS_Project/)
 1. Developed 3 [project ideas](https://github.com/RMcCurdy/TeamS_Project/blob/stage-one/stage_one_project_ideas.pdf)
 
-### Stage Two Deliverables
-[Stage Two Document](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)
+## Stage Two Deliverables
+[Stage Two Report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)
 <details>
     <summary><b>Stage Two Details</b></summary>
 <br>
 <ol>
-    <li>Provided a succinct project description</li>
-    <li>Identified Stakeholders</li>
+    <li>Provided a succinct project description.</li>
+    <li>Identified Stakeholders.</li>
     <li>Conducted 3 user research methods based on the IDEO Method Cards.</li>
     <ol>
         <li> Competitive Product Survey</li>
@@ -34,7 +36,9 @@ Amman Yusuf
         <li> Flow Analysis</li>
     </ol>
     <li>Generated User Tasks</li>
-    <li> Appendix/Raw Data of research methods</li>
+    <li>Included Appendix/Raw Data of research methods</li>
 </ol>
+
+The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf) describes all of the above points in detail.  This report and images taken during our user research can be seen over at our [stage two repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-two) for this project.
 </details>
 
