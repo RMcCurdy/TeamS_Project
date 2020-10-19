@@ -22,7 +22,6 @@ Amman Yusuf
 ### Stage Two Deliverables
 <details>
     <summary><b>Stage Two</b></summary>
-    <summary><b>Stage Two [Document](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)</b></summary>
 <br>
 [Stage Two Document](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)
 <ol>
