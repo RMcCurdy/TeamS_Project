@@ -1,6 +1,7 @@
 # TeamS_Project
-This is the CPSC 481 project for Team S.  Once a project has been chosen from our three project ideas,
-it will be described in more detail in this README file.
+This is stage 2 of the project.  The project idea WaitLess has been finalized.
+Full report can be observed in the pdf document as well as the [online portfolio](https://rmccurdy.github.io/TeamS_Project/)
+for this project.
 
 ---
 ## Team Memebers:
