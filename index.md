@@ -20,10 +20,10 @@ Amman Yusuf
 1. Developed 3 [project ideas](https://github.com/RMcCurdy/TeamS_Project/blob/stage-one/stage_one_project_ideas.pdf)
 
 ### Stage Two Deliverables
-<details>
-    <summary><b>Stage Two</b></summary>
-<br>
 [Stage Two Document](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)
+<details>
+    <summary><b>Stage Two Details</b></summary>
+<br>
 <ol>
     <li>Provided a succinct project description</li>
     <li>Identified Stakeholders</li>
