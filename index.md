@@ -22,7 +22,6 @@ Amman Yusuf
 1. Developed 3 [project ideas](https://github.com/RMcCurdy/TeamS_Project/blob/stage-one/stage_one_project_ideas.pdf)
 
 ## Stage Two Deliverables
-[Stage Two Report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf)
 <details>
     <summary><b>Stage Two Details</b></summary>
 <br>
@@ -38,7 +37,7 @@ Amman Yusuf
     <li>Generated User Tasks</li>
     <li>Included Appendix/Raw Data of research methods</li>
 </ol>
-
-The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf) describes all of the above points in detail.  This report and images taken during our user research can be seen over at our [stage two repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-two) for this project.
 </details>
 
+
+The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf) describes all of the above stage 2 points in detail.  This report and images taken during our user research can be seen over at our [stage two repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-two) for this project.
