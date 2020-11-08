@@ -43,6 +43,32 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_
 
 ## Stage Three Deliverables
 
-NEED TO EDIT BELOW FOR PDF
+<details>
+    <summary><b>Stage Three Details</b></summary>
+<br>
+<ol>
+    <li>Provided a succinct project description.</li>
+    <li>User Tasks</li>
+    <ol>
+        <li> Horizontal Tasks</li>
+        <li> Vertical Tasks</li>
+    </ol>
+    <li>Storyboard</li>
+    <li>Cognitive Evaluation</li>
+    <li>Reflection</li>
+    <ol>
+        <li> What went well</li>
+        <li> What went poorly</li>
+        <li> What to do differently</li>
+    </ol>
+    <li>Appendix</li>
+    <ol>
+        <li> Cognitive Walk-through</li>
+        <li> Affinity Diagrams</li>
+        <li> Sample Sketches</li>
+    </ol>
+</ol>
+</details>
+
 The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPSC_481_Project_Iteration3.pdf) describes all of the above stage 2 points in detail.  This report and images taken during our user research can be seen over at our [stage three repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-three) for this project.
 
