@@ -70,5 +70,5 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_
 </ol>
 </details>
 
-The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPSC_481_Project_Iteration3.pdf) describes all of the above stage 2 points in detail.  This report and images taken during our user research can be seen over at our [stage three repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-three) for this project.
+The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPSC_481_Project_Iteration3.pdf) describes all of the above stage 3 points in detail.  This report and images taken during our user research can be seen over at our [stage three repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-three) for this project.
 
