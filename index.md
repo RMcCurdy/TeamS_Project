@@ -39,5 +39,7 @@ Amman Yusuf
 </ol>
 </details>
 
+## Stage Three Deliverables
+
 
 The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-two/CPSC_481_Project_Iteration2.pdf) describes all of the above stage 2 points in detail.  This report and images taken during our user research can be seen over at our [stage two repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-two) for this project.
