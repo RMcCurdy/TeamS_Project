@@ -5,6 +5,10 @@ The WaitLess project idea revolves around improving the virtual academic advisin
 
 This is our stage 4 iteration.  In this stage, we took the results from our low fidelity prototyped, evaluated it, and build the first verison of our high fidelity prototype on Adobe XD.  We then conducted a heuristic evaluation on our first version of our high fidelity prototype by splitting our group into evaluators and reviewers.  A complete presentation of our work in this stage is shown in the "Presentation Iteration4 Version 5.pptx" and our report can be found in "CPSC_481_Project_stage_4-report-v1"
 
+
+### NOTE
+For this stage, the presentation and demo video are still being uploaded due to their large file sizes.  Please bear with us as we resolve this issue
+
 ---
 ## Team Memebers:
 ```
