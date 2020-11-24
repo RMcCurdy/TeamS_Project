@@ -85,9 +85,9 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPS
         <li> Horizontal Tasks</li>
         <li> Vertical Tasks</li>
     </ol>
-    <li>[Developed a High Fidelity Prototype using Adobe XD](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/High-Fi%20Prototype/DRAFT%202%20-%20HIGH%20FIDELITY%20Nov22%202PM%20UPDATE.xd)</li>
-    <li>Demonstrated High fidelity Prototype functionality through [this demo video](...link to the demo)</li>
-    <li>Conducted a Heuristic Evaluation and the [findings were summarized](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf)</li>
+    <li><a href="https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/High-Fi%20Prototype/DRAFT%202%20-%20HIGH%20FIDELITY%20Nov22%202PM%20UPDATE.xd" target="_blank">Developed a High Fidelity Prototype using Adobe XD</a></li>
+    <li>Demonstrated High fidelity Prototype functionality through <a href=#>this demo video</a>(...link to the demo)</li>
+    <li>Conducted a Heuristic Evaluation and the <a href="https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf target="_blank"">findings were summarized</a></li>
     <li>Wrote up a reflection of our work in stage 4.  Included the following points:</li>
     <ol>
         <li> What went well</li>
