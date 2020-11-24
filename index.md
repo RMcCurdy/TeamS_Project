@@ -85,15 +85,16 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPS
         <li> Horizontal Tasks</li>
         <li> Vertical Tasks</li>
     </ol>
-    <li>[High fidelity Prototype demo](...link to the demo)</li>
-    <li>[Heuristic Evaluation (in the report)](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf)</li>
-    <li>Reflection</li>
+    <li>[Developed a High Fidelity Prototype using Adobe XD](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/High-Fi%20Prototype/DRAFT%202%20-%20HIGH%20FIDELITY%20Nov22%202PM%20UPDATE.xd)</li>
+    <li>Demonstrated High fidelity Prototype functionality through [this demo video](...link to the demo)</li>
+    <li>Conducted a Heuristic Evaluation and the [findings were summarized](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf)</li>
+    <li>Wrote up a reflection of our work in stage 4.  Included the following points:</li>
     <ol>
         <li> What went well</li>
         <li> What went poorly</li>
         <li> What to do differently</li>
     </ol>
-    <li>Appendix</li>
+    <li>Appendix included the following documents</li>
     <ol>
         <li> Heuristic Evaluation report from the Evaluators</li>
         <li> Heuristic Evaluation report from the Reviewers</li>
@@ -102,8 +103,3 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPS
 </details>
 
 The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf) describes all of the above stage 4 points in detail.  A complete powerpoint [presentation](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/Presentation%20Iteration4%20Version%204%20-%20no%20demo%20video.pptx) with sound that describes our stage 4 work can be viewed. This report, evaluations, interactible high fidelity prodotype (designed in Adobe XD), and demo video can all be seen over at our [stage four repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-four) for this project.
-
-
-
-
-
