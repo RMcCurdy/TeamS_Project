@@ -86,8 +86,8 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPS
         <li> Vertical Tasks</li>
     </ol>
     <li><a href="https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/High-Fi%20Prototype/DRAFT%202%20-%20HIGH%20FIDELITY%20Nov22%202PM%20UPDATE.xd" target="_blank">Developed a High Fidelity Prototype using Adobe XD</a></li>
-    <li>Demonstrated High fidelity Prototype functionality through <a href=#>this demo video</a>(...link to the demo)</li>
-    <li>Conducted a Heuristic Evaluation and the <a href="https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf target="_blank"">findings were summarized</a></li>
+    <li>Demonstrated High fidelity Prototype functionality through a demo.</li>
+    <li>Conducted a Heuristic Evaluation and the <a href="https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project-Stage-4-Report-Final.pdf" target="_blank"">findings were summarized</a></li>
     <li>Wrote up a reflection of our work in stage 4.  Included the following points:</li>
     <ol>
         <li> What went well</li>
@@ -102,4 +102,4 @@ The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-three/CPS
 </ol>
 </details>
 
-The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf) describes all of the above stage 4 points in detail.  A complete powerpoint [presentation](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/Presentation%20Iteration4%20Version%204%20-%20no%20demo%20video.pptx) with sound that describes our stage 4 work can be viewed. This report, evaluations, interactible high fidelity prodotype (designed in Adobe XD), and demo video can all be seen over at our [stage four repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-four) for this project.
+The [full report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/CPSC_481_Project_stage_4-report-v1.pdf) describes all of the above stage 4 points in detail.  A powerpoint [presentation](https://github.com/RMcCurdy/TeamS_Project/blob/stage-four/Presentation%20Iteration4%20Version%204%20-%20no%20demo%20video.pptx) with sound that describes our stage 4 work can be viewed. This report, evaluations, and interactible high fidelity prodotype (designed in Adobe XD) can all be seen over at our [stage four repository branch](https://github.com/RMcCurdy/TeamS_Project/tree/stage-four) for this project.
