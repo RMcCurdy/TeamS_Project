@@ -7,7 +7,7 @@ This is our stage 5 iteration. For this stage, we took teh high fidelity prototy
 
 [![WaitLess App](http://img.youtube.com/vi/492zDqviTfQ/0.jpg)](https://youtu.be/492zDqviTfQ)
 
-Along with the imporvements we also wrote up  a final report for our project which summarizes our journey.  The report can be viewed under "CPSC_481_Project_Report_Stage_5.pdf" in this repository.
+Along with the imporvements we also wrote up  a A [final report](https://github.com/RMcCurdy/TeamS_Project/blob/stage-five/CPSC_481_Project_Report_Stage_5.pdf) of our project can be viewed in this branch.
 
 Finally, a full journey of our project can be viewed at our [portfolio](https://edmunds13.github.io/#).  
 
